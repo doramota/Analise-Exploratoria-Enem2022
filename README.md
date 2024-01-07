@@ -1,6 +1,6 @@
 # Análise Exploratória - Enem 2022
 
->  Esse projeto trás uma análise explioratória sobre os microdados do enem 2022, o qual foi proposta para a primeira avaliação da disciplina de Data Science da Faculdade Senac no período 2023.2.
+>  Esse projeto trás uma análise exploratória sobre os microdados do enem 2022, o qual foi proposta para a primeira avaliação da disciplina de Data Science da Faculdade Senac no período 2023.2.
 
 > Optamos por utilizar o conjunto de dados do INEP por se tratar da maior prova do Brasil, especificamente os dados do ENEM de 2022 com dois dias consecutivos, englobando um amplo espectro de áreas de conhecimento, a saber: linguagens, códigos e suas tecnologias; ciências humanas e suas tecnologias; ciências da natureza e suas tecnologias; e matemática e suas tecnologias. Além disso, uma redação também foi incluída no exame. Os dados estão disponíveis no [site do INEP](https://www.gov.br/inep/pt-br/acesso-a-informacao/dados-abertos/microdados/enem).
 
